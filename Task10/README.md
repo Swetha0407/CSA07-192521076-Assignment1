@@ -61,7 +61,6 @@ The following headers and fields were identified:
 
 ![Wireshark packet details](evidence/wireshark.png)
 
-Capture file: [capture.pcapng](evidence/capture.pcapng)
 
 ## 6. Continuous Monitoring vs Diagnostic Tests
 
