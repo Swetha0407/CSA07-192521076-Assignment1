@@ -79,7 +79,11 @@ Bytes saved per command = **40 bytes**.
 On a 100 Mbps link, this represents a theoretical saving equivalent to 312,500 commands per second.
 
 However, removing IP and TCP reduces compatibility with standard IP routing and applications. The choice depends on the plant's real-time requirements and integration needs.
+### 9. Execution Evidence
 
-## 9. Result
+![Task 3 Python execution output](evidence/op.png)
+![Task 3 Python execution output](evidence/op1.png)
+
+## 10. Result
 
 The captured frame was analysed successfully. Router count, protocol overhead, OSI layer responsibilities and TCP/IP mapping were determined. The Python program demonstrated encapsulation and decapsulation, and the alternative industrial Ethernet approach was evaluated.
