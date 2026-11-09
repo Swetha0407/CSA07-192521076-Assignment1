@@ -51,9 +51,6 @@ Exact recovery times depend on the selected protocols and configurations.
 
 ![Windows Ethernet adapter information](evidence/op1.png)
 
-### Speed and Duplex Configuration
-
-![Windows Ethernet speed and duplex settings](evidence/op2.png)
 
 ## 8. Detailed Calculations
 
